@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(229, 233, 235);
+}
+
+div {
+  background-color: rgb(110, 78, 78);
+}
+#jisoo {
+  color: rgb(92, 77, 92);
+}
+#jennie {
+  color: rgb(62, 101, 92);
+}
+#rose {
+  color: rgb(144, 86, 86);
+}
+#lisa {
+  color: aqua;
+}
+#blackpink {
+  background-color: dodgerblue;
+  font-size: 100px;
+}
+#jisoo {
+  color: lightslategrey;
+  font-size: 50px;
+}
+#jennie {
+  color: lightpink;
+  font-size: 50px;
+}
+#rose {
+  color: lightsalmon;
+  font-size: 50px;
+}
+#lisa {
+  color: lightgreen;
+  font-size: 50px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+footer {
+  background-color: darkolivegreen;
+  width: 50px;
+  text-align: center;
+}
